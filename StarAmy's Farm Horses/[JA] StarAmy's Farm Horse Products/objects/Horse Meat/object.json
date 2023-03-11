@@ -1,0 +1,10 @@
+{
+    "Name": "Horse Meat",
+    "Description": "Not the fanciest meat, but better to use it than let it go to waste.",
+    "Category": "AnimalGoods",
+    "Edibility": 8,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+}

@@ -1,0 +1,9 @@
+
+{
+  "PreganancyItems": {
+    "Female Farm Horse": "Horse DNA",
+  },
+  "Offspring": {
+    "Female Farm Horse": ["Female Farm Horse", "Male Farm Horse"]
+  }
+}

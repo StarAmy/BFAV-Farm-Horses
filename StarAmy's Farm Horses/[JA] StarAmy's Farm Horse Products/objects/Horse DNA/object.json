@@ -1,0 +1,10 @@
+{
+    "Name": "Horse DNA",
+    "Description": "Used for impregnating female horses with the insemination syringe.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+}

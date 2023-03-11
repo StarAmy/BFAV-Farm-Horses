@@ -1,0 +1,27 @@
+{
+    "Name": "Horse Meat Pie",
+    "Description": "A tasty way to cook up an unusual meat.",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Horse Meat",
+             "Count": 1,
+              },
+             {
+             "Object": -5,
+             "Count": 1,
+            },
+            {
+             "Object": "Wheat Flour",
+             "Count": 1,
+            }           
+            ],
+            "IsDefault": true,
+            },    "CanPurchase": false, 
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Pet Treat",
+    "Description": "Beloved by dogs and cats alike.",
+    "Category": "Cooking",
+    "Edibility": 0,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Horse Meat",
+             "Count": 1,
+              },
+             {
+             "Object": "Pumpkin",
+             "Count": 1,
+            },  
+            {
+             "Object": "Wheat Flour",
+             "Count": 1,
+              },
+             {
+             "Object": -5,
+             "Count": 1,
+            },               
+            ],
+            "IsDefault": true,
+            },    "CanPurchase": false, 
+}

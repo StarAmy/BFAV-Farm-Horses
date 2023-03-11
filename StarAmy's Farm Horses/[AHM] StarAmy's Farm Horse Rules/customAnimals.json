@@ -1,0 +1,30 @@
+[
+    {
+      "Name": "Male Farm Horse",
+      "MinimalNumberOfMeat": 8,
+      "MaximumNumberOfMeat": 18,
+      "MinimumDaysBetweenTreats": 4,
+      "LikedTreats": [
+        "Melon",
+		"Carrot",
+		"Amaranth",
+    "Wheat"
+      ],
+      "MinimumDaysUtillBirth": null,
+      "CanUseDeluxeItemForPregnancy": false
+    },
+    {
+      "Name": "Female Farm Horse",
+      "MinimalNumberOfMeat": 8,
+      "MaximumNumberOfMeat": 18,
+      "MinimumDaysBetweenTreats": 4,
+      "LikedTreats": [
+        "Melon",
+    "Carrot",
+    "Amaranth",
+    "Wheat"
+      ],
+      "MinimumDaysUtillBirth": 10,
+      "CanUseDeluxeItemForPregnancy": false
+    },
+]

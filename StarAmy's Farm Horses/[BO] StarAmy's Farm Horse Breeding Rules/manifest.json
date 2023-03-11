@@ -1,0 +1,10 @@
+﻿{
+	"Name": "[BO] StarAmy's Farm Horse Breeding Rules",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds configuration of my farm horses for Breeding Overhaul.",
+	"UniqueID": "StarAmy.FarmHorseBreeding",
+	"ContentPackFor": {
+		"UniqueID": "StarAmy.BreedingOverhaul"
+	}
+}

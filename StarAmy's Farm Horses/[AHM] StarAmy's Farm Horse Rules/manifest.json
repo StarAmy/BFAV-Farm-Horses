@@ -1,0 +1,10 @@
+﻿{
+	"Name": "[AHM] StarAmy's Farm Horse Rules",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds configuration of my animal for Animal Husbandry Mod.",
+	"UniqueID": "StarAmy.FarmHorseRules",
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ANIMALHUSBANDRYMOD"
+	}
+}

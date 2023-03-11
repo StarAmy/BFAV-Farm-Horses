@@ -1,0 +1,46 @@
+{
+	"Format": "1.0",
+	"Categories": [
+		{
+			"Action": "Create",
+			"Category": "Farm Horse",
+			"Types": [
+				{
+					"Type": "Male Farm Horse",
+					"DeluxeProduceLuck": 0.2,
+					"Data": "1/8/Manure/Horse Hair/none/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/null/Horse Meat/3500/Male Farm Horse/Barn",
+					"Sprites": {
+						"Adult": "assets/MaleFarmHorse.png",
+						"Baby": "assets/BabyMaleFarmHorse.png"
+					}
+				},
+				{
+					"Type": "Female Farm Horse",
+					"DeluxeProduceLuck": 0.2,
+					"Data": "1/8/Manure/Horseshoe/none/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/null/Horse Meat/3500/Female Farm Horse/Barn",
+					"Sprites": {
+						"Adult": "assets/FemaleFarmHorse.png",
+						"Baby": "assets/BabyFemaleFarmHorse.png"
+					}
+				},
+			],
+			"Buildings": [
+				"Deluxe Barn",
+				"Big Barn"
+			],
+			"AnimalShop": {
+				"Name": "Farm Horse",
+				"Description": "Farm horses for your ranch",
+				"Price": 12000,
+				"Icon": "assets\\animal_shop_farm_horse.png",
+				"Exclude": [
+					"Void Chicken"
+				]
+			},
+			"ForceRemoveFromShop": false,
+			"ForceOverrideTypes": true,
+			"ForceOverrideBuildings": true,
+			"ForceOverrideExclude": true
+		},
+		]
+}

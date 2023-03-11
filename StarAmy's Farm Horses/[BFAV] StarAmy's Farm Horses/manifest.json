@@ -1,0 +1,10 @@
+{
+  "Name": "[BFAV] StarAmy's Farm Horses",
+  "Author": "StarAmy",
+  "Version": "1.0.0",
+  "Description": "Adds horses as barn animals using BFAV.",
+  "UniqueID": "StarAmy.FarmHorses",
+  "ContentPackFor": {
+    "UniqueID": "Paritee.BetterFarmAnimalVariety"
+  }
+}
