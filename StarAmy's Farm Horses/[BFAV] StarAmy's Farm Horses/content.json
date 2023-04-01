@@ -8,7 +8,7 @@
 				{
 					"Type": "Male Farm Horse",
 					"DeluxeProduceLuck": 0.2,
-					"Data": "1/8/Manure/Horse Hair/none/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/null/Horse Meat/3500/Male Farm Horse/Barn",
+					"Data": "1/8/Manure/Horse Hair/none/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/Horse Meat/3500/Male Farm Horse/Barn",
 					"Sprites": {
 						"Adult": "assets/MaleFarmHorse.png",
 						"Baby": "assets/BabyMaleFarmHorse.png"
@@ -17,7 +17,7 @@
 				{
 					"Type": "Female Farm Horse",
 					"DeluxeProduceLuck": 0.2,
-					"Data": "1/8/Manure/Horseshoe/none/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/null/Horse Meat/3500/Female Farm Horse/Barn",
+					"Data": "1/8/Manure/Horseshoe/none/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/Horse Meat/3500/Female Farm Horse/Barn",
 					"Sprites": {
 						"Adult": "assets/FemaleFarmHorse.png",
 						"Baby": "assets/BabyFemaleFarmHorse.png"
